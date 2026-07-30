@@ -8,23 +8,24 @@ tags:
 publication_date: 2023-10-20
 arxiv: "2310.13636"
 source:
-  - 组会11.1/tex/data/chap04.tex
+  - 组会11.1
+author: Guillaume Beaulieu；Fabrizio Minganti
 ---
 
 # Observation of first- and second-order dissipative phase transitions in a two-photon driven Kerr resonator
 
 ## 基本信息
 
-|项目|记录|
-|---|---|
-|首次公开|2023-10-20|
-|主要作者|Guillaume Beaulieu；Fabrizio Minganti（第一、第二作者）|
-|第一作者机构|Hybrid Quantum Circuits Laboratory, Institute of Physics, EPFL；Center for Quantum Science and Engineering, EPFL|
-|第二作者机构|Center for Quantum Science and Engineering, EPFL；Laboratory of Theoretical Physics of Nanosystems, Institute of Physics, EPFL|
-|实验机构|Hybrid Quantum Circuits Laboratory, Institute of Physics, EPFL|
-|阅读目的|理解量子轨迹和 Liouvillian 谱如何区分一阶、二阶耗散相变|
-|阅读日期|待补充|
-|链接|[arXiv:2310.13636](https://arxiv.org/abs/2310.13636)|
+| 项目     | 记录                                                                                                                            |
+| ------ | ----------------------------------------------------------------------------------------------------------------------------- |
+| 首次公开   | 2023-10-20                                                                                                                    |
+| 主要作者   | Guillaume Beaulieu；Fabrizio Minganti（第一、第二作者）                                                                                 |
+| 第一作者机构 | Hybrid Quantum Circuits Laboratory, Institute of Physics, EPFL；Center for Quantum Science and Engineering, EPFL               |
+| 第二作者机构 | Center for Quantum Science and Engineering, EPFL；Laboratory of Theoretical Physics of Nanosystems, Institute of Physics, EPFL |
+| 实验机构   | Hybrid Quantum Circuits Laboratory, Institute of Physics, EPFL                                                                |
+| 阅读目的   | 理解量子轨迹和 Liouvillian 谱如何区分一阶、二阶耗散相变                                                                                            |
+| 阅读日期   | 待补充                                                                                                                           |
+| 链接     | [arXiv:2310.13636](https://arxiv.org/abs/2310.13636)                                                                          |
 
 **所属领域：** 开放系统基本理论  
 **强关联领域：** [[../../40-量子轨迹与开放系统输运/量子轨迹法|量子轨迹法]]
