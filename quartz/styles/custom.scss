@@ -1,3 +1,34 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+// A restrained reading layout: clear hierarchy, modest line length, quiet cards.
+:root {
+  --note-radius: 0.55rem;
+}
+
+article {
+  line-height: 1.76;
+}
+
+article > h2 {
+  margin-top: 2.2rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 1px solid var(--lightgray);
+}
+
+article table {
+  font-size: 0.94rem;
+}
+
+.page-title a {
+  letter-spacing: 0.01em;
+}
+
+.callout {
+  border-radius: var(--note-radius);
+}
+
+@media all and (min-width: 1200px) {
+  .center article {
+    max-width: 48rem;
+  }
+}
